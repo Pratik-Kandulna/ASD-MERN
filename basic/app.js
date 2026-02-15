@@ -1,3 +1,3 @@
-import { x } from './basic/add';
+const sum= require('./sum');
 
-console.log(x(12,12));
+console.log(sum.x(12,90));
