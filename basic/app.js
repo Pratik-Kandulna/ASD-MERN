@@ -1,3 +1,3 @@
-const add = require('./basic/add');
+import { x } from './basic/add';
 
-console.log(add.x(12,12));
+console.log(x(12,12));
